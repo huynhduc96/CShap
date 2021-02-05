@@ -1,0 +1,4 @@
+[72608:775:1225/193900.821700:INFO:CONSOLE(15)] "Error [get] to https://wefinex.net/api/wallet/binaryoption/events/notifications/count?unread=true TypeError: Cannot read property 'status' of undefined", source: https://wefinex.net/app.js?v=176g2fh854 (15)
+[72608:775:1225/193900.821793:INFO:CONSOLE(15)] "Error [get] to https://wefinex.net/api/wallet/binaryoption/events/notifications?page=1&size=10&lang=jp TypeError: Cannot read property 'status' of undefined", source: https://wefinex.net/app.js?v=176g2fh854 (15)
+[72608:775:1225/193908.919844:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.
+[72608:775:1225/193909.008793:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

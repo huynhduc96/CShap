@@ -1,0 +1,16 @@
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/test1.deps.json
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/test1.runtimeconfig.json
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/test1.runtimeconfig.dev.json
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/test1.dll
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/test1.pdb
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.csprojAssemblyReference.cache
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.AssemblyInfoInputs.cache
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.AssemblyInfo.cs
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.csproj.CoreCompileInputs.cache
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.dll
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.pdb
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.genruntimeconfig.cache
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/huynhduc96/Desktop/testCthang/test1/test1/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/huynhduc96/Desktop/testCthang/test1/test1/obj/Debug/netcoreapp3.1/test1.csproj.CopyComplete

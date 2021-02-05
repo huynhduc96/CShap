@@ -1,0 +1,7 @@
+/Users/huynhduc96/Desktop/WeFinex.dll
+/Users/huynhduc96/Desktop/WeFinex.deps.json
+/Users/huynhduc96/Desktop/WeFinex.runtimeconfig.json
+/Users/huynhduc96/Desktop/WeFinex.pdb
+/Users/huynhduc96/Desktop/Newtonsoft.Json.dll
+/Users/huynhduc96/Desktop/WebDriver.Support.dll
+/Users/huynhduc96/Desktop/WebDriver.dll

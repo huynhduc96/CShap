@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0D00D4CD-9F55-4FBB-A67F-E1EC74E293E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test1/WeFinex.csproj">
+    <Files>
+      <File FileName="test1/Base.cs" Line="305" Column="31" />
+      <File FileName="test1/Rule7.cs" Line="251" Column="44" />
+      <File FileName="test1/Rule8.cs" Line="235" Column="253" />
+      <File FileName="test1/Rule9.cs" Line="1" Column="1" />
+      <File FileName="test1/Rule6.cs" Line="573" Column="17" />
+      <File FileName="test1/WeFinex.csproj" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Selenium" expanded="True">
+            <Node name="WeFinex" expanded="True">
+              <Node name="new" expanded="True" />
+              <Node name="Base.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeFinex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
